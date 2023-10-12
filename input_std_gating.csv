@@ -1,0 +1,8 @@
+Head,LossFactor,FlowRate,CastingHeight_P,TotalCasting_C,Name
+70,0.8,2.5,0,360,runner_1.2_main1
+255,0.6,1.25,0,360,runner_1.2_main2
+415,0.5,1.25,130,360,runner_1.2_main3
+240,0.6,1.25,130,185,ingate_1.0_chokeA
+415,0.5,0.8,130,185,ingate_1.0_chokeB
+225,0.4,1.28,130,360,ingate_1.2_chokeC
+225,0.4,1.28,130,360,ingate_1.2_chokeD
